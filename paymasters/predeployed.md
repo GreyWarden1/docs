@@ -12,7 +12,7 @@ published with the GSN client library NPM package.
 You can initialize the RelayProvider to use one of these Paymasters by passing a `PaymasterType` enum
 instead of address as the `paymasterAddress` config parameter.
 
-:warning: Notice that these Paymaster were not audited yet and using these are at your own risk.
+:warning: Notice that these Paymasters have not been audited yet, and using them is at your own risk.
 
 Here is the list of Paymasters that are currently supported:
 
