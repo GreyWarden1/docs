@@ -50,6 +50,7 @@ An experimental Paymaster contract that uses ERC-20 tokens with meta-transaction
 The Paymaster maintains a positive cash-flow by converting the tokens on Uniswap v3. Currently only deployed on Goerli network.
 
 Note: currently, this Paymaster requires a custom provider.
+:warning: On Jan 1st, 2024, the Goerli testnet will be officially moved to EOL (End of Life) status.
 
 Usage:
 ``` typescript
