@@ -5,7 +5,7 @@
 We believe that the GSN has by now successfully solved the meta-transactions and gas abstraction problems in the Ethereum ecosystem, taking it from hackathon ideas to a public infrastructure project with many years of production experience and track record.
 
 Our team has applied this experience to solve some of the most challenging problems in Ethereum, including but not limited to Account Abstraction, Gas Abstraction, Signature Aggregation, Transaction Batching, Transaction Scheduling and MEV Adoption.
-All this work is coming together under the ERC-4337 (https://eips.ethereum.org/EIPS/eip-4337). You can read the documentation (https://eip4337.com/en/latest/), read some blog posts here(https://hackmd.io/@erc4337/) or see the code for yourself (https://github.com/eth-infinitism/account-abstraction/).
+All this work is coming together under the [ERC-4337](https://eips.ethereum.org/EIPS/eip-4337). You can read the [documentation](https://eip4337.com/en/latest/), read some blog posts [here](https://hackmd.io/@erc4337/) or see the [code](https://github.com/eth-infinitism/account-abstraction/) for yourself.
 
 
 It is important to note that the GSN library is intended for dapp developers who want to sponsor transactions for existing Ethereum users here and now.
